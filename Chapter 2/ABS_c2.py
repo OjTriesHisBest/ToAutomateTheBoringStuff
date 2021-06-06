@@ -114,7 +114,7 @@ While-loop version:
         print(number)
         number = number + 1
         
-Which version is easier for you to understand?)''')
+Which version is easier for you to understand?''')
 
 def answer_14():
     print("spam.bacon()")
